@@ -79,6 +79,7 @@ Top Models Summary
 Year Selection Panel
 📷 Dashboard Preview
 Car Sales Dashboard
+
 <img width="607" height="335" alt="Screenshot 2026-06-09 233211" src="https://github.com/user-attachments/assets/3a8827cc-823c-42fe-8655-ff2ce0a8ea6e" />
 
 
